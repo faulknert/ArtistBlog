@@ -2,7 +2,7 @@
 template: BlogPost
 path: /sink-or-swim
 date: 2020-02-21T12:12:25.364Z
-title: Sink or Swim
+title: Sink or Swim - Jared Faulkner
 thumbnail: /assets/sinkorswim.jpg
 ---
 

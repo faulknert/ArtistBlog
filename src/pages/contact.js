@@ -20,7 +20,7 @@ const ContactPage = ({
           <p>Recommend an Artist to join &rarr;</p>
         </div>
         <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
+          <form className="form-container" action="https://formspree.io/f/xjvpakeo" method="post">
             <div>
               <label htmlFor="w3lName">Name</label>
               <input type="text" name="w3lName" id="w3lName"/>

@@ -11,7 +11,7 @@ const ContactPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Reccomend a Artist — {site.siteMetadata.title}</title>
+        <title>Recommend a Artist — {site.siteMetadata.title}</title>
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">

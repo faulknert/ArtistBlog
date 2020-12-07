@@ -27,10 +27,6 @@ const IndexPage = ({
       <div className="grids">
         {Posts}
       </div>
-      <h2>Artists &darr;</h2>
-      <div className="grids">
-        {Posts}
-      </div>
     </Layout>
   )
 }

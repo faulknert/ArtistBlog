@@ -1,10 +1,10 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /scored-a-pack
 date: 2020-02-20T07:08:53.137Z
-title: Hello World
-thumbnail: ''
-metaDescription: Meta description for Hello World
+title: Scored a Pack from the Meat & Wine
+thumbnail: /assets/ScoredaPack.jpg
+metaDescription: Scored a pack of from the Meat and Wine store
 ---
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique fugiat delectus pariatur blanditiis nulla soluta ratione nostrum, harum maiores adipisci a quod nobis cupiditate quae odit unde qui sit consequuntur.
+This is an acrylic on canvas piece done by Jared Faulkner, this piece is meant to highlight the details of life and see the detail in all the small things that life has to offer you.

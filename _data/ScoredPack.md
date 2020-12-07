@@ -1,10 +1,10 @@
 ---
 template: BlogPost
 path: /scored-a-pack
-date: 2020-02-20T07:08:53.137Z
+date: 2019-10-20T07:08:53.137Z
 title: Scored a Pack from the Meat & Wine - Jared Faulkner
 thumbnail: /assets/ScoredaPack.jpg
-metaDescription: Scored a pack of from the Meat and Wine store
+metaDescription: Scored a pack from the Meat and Wine store
 ---
 
 ![Simple](/assets/ScoredaPack.jpg)

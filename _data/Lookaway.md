@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /lookaway
-date: 2020-02-20T15:08:12.174Z
+date: 2019-08-17T15:08:12.174Z
 title: Just Look The Other Way - Jared Faulkner
 thumbnail: /assets/lookaway.jpg
 ---

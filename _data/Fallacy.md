@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /Fallacy
-date: 2020-02-20T15:05:49.332Z
+date: 2019-05-23T15:05:49.332Z
 title: The Fallacy Of Ambiguity - Jared Faulkner
 thumbnail: /assets/Fallacy.jpg
 ---
